@@ -1,0 +1,6 @@
+{
+  "name": "My CCTV",
+  "description": "Stream rear camera video and audio from one Android phone and monitor it in real time from another phone using WebRTC and Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
